@@ -1,4 +1,6 @@
 # OPTI-CHECK 
+![image](https://github.com/user-attachments/assets/c8a6000b-4036-4cf0-b6ff-bf39ffe4a42f)
+
 ## Project Description
 "OPTI-CHECK" is an innovative application designed to simplify the process of eye testing and purchasing glasses through smart camera technology. The app features an easy-to-use interface and modern design that helps users select the perfect glasses according to their personal needs.
 
